@@ -1,0 +1,64 @@
+
+.h1{
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+   
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}*/
+
+.form{
+    background-color: #888;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.containForm{
+    color: blanchedalmond;
+    background-color: #555;
+    width: 400px;
+    
+
+}
+
+.txt{
+    width: 95%;
+}
+
+.send{
+    justify-self: center;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    width: 85%;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+   
+    overflow-y: scroll;
+    background-image: url(https://cronicasfreelancer.com/wp-content/uploads/2020/11/como-se-forma-un-programador-1024x642.jpg);
+    background-size: cover;
+}
